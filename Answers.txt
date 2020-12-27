@@ -1,0 +1,14 @@
+Q1. What's your favourite state management library for react and why?
+Ans:Redux ,its centralized data  to store ,redux dev tools make it easy to debuggable.
+Q2. Write some react native best practices?
+Ans. Use functional component its very easy manage state regards class component.
+Every element should be unique key
+Store images on cloud and use optimize assets for small app size
+Q3. Which coding style you prefer wet or dry and why?
+Ans.Dry - don't repeat yourself 
+In dry style we create reusable code,its very easy to read
+Q4 ÿWhat do you prefer expo or vanilla react native and why?
+Ans:- With vanilla react native we can write native module like swift and kotlin and java
+Size of app with expo is more than vanilla react native
+
+
